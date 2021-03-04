@@ -19,4 +19,6 @@ To clean-up the code without changing it. This helps ease the work flow of any f
 
 ---
 
-## Link
+## Links
+- URL: https://hannelizehuman.github.io/Horiseon/
+- Git Repo: https://github.com/HannelizeHuman/Horiseon.git
