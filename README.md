@@ -3,26 +3,19 @@
 ## Description
 The aim of this assignment is to refactor a marketing angency's existing site to make it more accessible.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+To clean-up the code without changing it. This helps ease the work flow of any future developers who need to work on the code.This project helped me learn how to write README files, how to structure CSS and HTML files.
 
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
-- [Installation](#installation)
-- [Usage](#usage)
+
+## Table of Contents
+
+- [Screenshot](#screenshot)
 - [Link](#link)
 
-## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+## Screenshot
+
+![alt text](assets/screenshot_Horiseon.png)
+ Screenshot of the Horiseaon landing page.
 
 ---
 
